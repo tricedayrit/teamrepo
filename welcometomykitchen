@@ -1,0 +1,102 @@
+<head>
+    <title>HONEYBEES</title>
+    <link href="https://fonts.googleapis.com/css?family=Roboto&display=swap" rel="stylesheet"> 
+</head>
+
+<style type = "text/css">
+
+body {
+    background-image:url(https://i.imgur.com/LYrVreE.png);
+}
+
+::-webkit-scrollbar{width:1px}::-webkit-scrollbar-track{background:#cccccc;border-radius:5px}::-webkit-scrollbar-thumb{background:#880000;border-radius:5px}
+
+h1 {
+    position:absolute;
+    text-align:center;
+    margin:auto;
+    left:calc(50% - 150px);
+    font-family: 'Roboto', sans-serif;
+}
+
+h2 {
+    position:absolute;
+    width:500px;
+    left:calc(50% - 140px);
+    top:50px;
+}
+
+div#bri {
+    position:absolute;
+    margin:auto;
+    left:calc(50% - 100px);
+    width:200px;
+    height:500px;
+    top:calc(50% - 200px);
+    overflow-x:hidden;
+    overflow-y:scroll;
+}
+
+div#trice {
+    position:absolute;
+    margin:auto;
+    left:calc(50% - 350px);
+    width:200px;
+    height:500px;
+    top:calc(50% - 200px);
+    overflow-x:hidden;
+    overflow-y:scroll;
+}
+
+div#alex {
+    position:absolute;
+    margin:auto;
+    left:calc(50% + 150px);
+    width:200px;
+    height:500px;
+    top:calc(50% - 200px);
+    overflow-x:hidden;
+    overflow-y:scroll;
+}
+
+div.pfpimg img {
+    width:200px;
+    padding-bottom:10px;
+}
+
+i {
+    color:pink;
+}
+
+b {
+    color:red;
+}
+
+</style>
+
+<body>
+    <h1>Welcome to our webpage!</h1>
+    <h2>You can reach our webpage <a href = "https://www.youtube.com/watch?v=DLzxrzFCyOs">here.</a></h2>
+    <div id = "bri">
+        <div class = "pfpimg">
+            <img src = "https://i.imgur.com/L6NcvmO.png"></img>
+        </div>
+        Hi! I'm Brilynne Fun-dip. I love to draw and paint. I'm <i>thoughtful</i> and <b>clever</b> as well as talented with art; for Christmas, I gave my friends some framed paintings. Trice's was a self-portrait. Melissa's was
+        Solas and her Dragon's Age character. Donovan's was a cup of coffee, and Joey's was a 3D Yoshi.
+    </div>
+
+    <div id = "trice">
+        <div class = "pfpimg">
+            <img src = "https://i.imgur.com/a0iHepT.png"></img>
+        </div>
+        Hi! I'm Trice Dayrit. I work at Dutch Bros and love to draw and paint. My hobbies include writing, cooking, and making coffee. Every now and again I enjoy going on spontaneous road trips. My most recent one
+        was a trip to Brunneau Sand Dunes where I went hiking for a while.
+    </div>
+    <div id = "alex">
+        <div class = "pfpimg">
+            <img src = "https://i.imgur.com/ANLbRQH.png"></img>
+        </div>
+        Hi! I'm Alex Becerril. I am sad over Kobe Bryant.According to all known lawsof aviation,there is no way a beeshould be able to fly.Its wings are too small to getits fat little body off the ground.
+        The bee, of course, flies anyway because bees don't carewhat humans think is impossible.Yellow, black. Yellow, black.Yellow, black. Yellow, black.
+    </div>
+</body>
